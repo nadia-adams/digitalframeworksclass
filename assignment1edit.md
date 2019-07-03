@@ -46,8 +46,7 @@ Landownership can be a source of wealth. With an increasing wealth gap between b
    * How? They were simple graphics but they have interactive components.
    * Rate effectiveness on scale of 1-5. 4
    
-   https://newfoodeconomy.org/usda-black-farmers-discrimination-tom-vilsack-reparations-civil-rights/
-[Black Farmers https://newfoodeconomy.org/usda-black-farmers-discrimination-tom-vilsack-reparations-civil-rights/]
+   [link text](https://newfoodeconomy.org/usda-black-farmers-discrimination-tom-vilsack-reparations-civil-rights/))
 
 ### Objective: Clarity and accuracy: Prison Population
 
@@ -90,4 +89,4 @@ Landownership can be a source of wealth. With an increasing wealth gap between b
    * Rate effectiveness on scale of 1-5. 4
 
 
-https://www.bjs.gov/content/pub/pdf/ji17.pdf
+[link text](https://www.bjs.gov/content/pub/pdf/ji17.pdf))
