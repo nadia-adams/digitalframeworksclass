@@ -1,4 +1,5 @@
-Story Ideas 
+*Story Ideas*
+
 Declining prison population: How much has the prison population gone down in the last year?  
 The United States has one of the highest prison populations among developed countries. Due to state and federal laws the prison population increased significantly over the last 40 years. Black and Hispanic populations are disproportionately incarcerated. In recent years prison population reform has gained attention to push back on harsh sentencing, non-violent crimes, racial bias and marijuana convictions. Marijuana has become legal in 11 states prompting reform for inmates convicted of possession of marijuana. States known for harsh sentencing and conditions should be looked at. Rikers Island in New York and California State Penitentiary can be looked at for its population and retention rates. 
 
