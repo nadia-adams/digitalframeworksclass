@@ -1,8 +1,7 @@
 Story Ideas 
 Declining prison population: How much has the prison population gone down in the last year?  
-The United States has one of the highest prison pouplations among developed countries. Due to state and federal laws the prsion
-population increased signifigantly over the last 40 years. Black and Hispanic populations are disporportionately incarcerated. 
-In recent years prison population reform has gained attention to push back on harsh sentencing, non-violent crimes, racial bias
-and marijuana convictions. Marijuana has become legal in 11 states prompting reform for inmates convicted of poession of 
-marijuana. 
+The United States has one of the highest prison populations among developed countries. Due to state and federal laws the prison population increased significantly over the last 40 years. Black and Hispanic populations are disproportionately incarcerated. In recent years prison population reform has gained attention to push back on harsh sentencing, non-violent crimes, racial bias and marijuana convictions. Marijuana has become legal in 11 states prompting reform for inmates convicted of possession of marijuana. States known for harsh sentencing and conditions should be looked at. Rikers Island in New York and California State Penitentiary can be looked at for its population and retention rates. 
+
+
 Land-ownership among African-Americans: Has land ownership among African-Americans increased or decreased in the last year? 
+Landownership can be a source of wealth. With an increasing wealth gap between black and white Americans, landownership can be a source of reasoning. When slaves were freed in 1863, they were promised some land from the United States but never received it. Though some slaves inherited land from slave holders and abolitionist. Inherited land or air property held by blacks today has been mostly sold or confiscated by large corporations. Furthermore, throughout the Jim Crow era blacks were not allowed to own or purchase land in certain areas. Economically, this has set African-Americans back but where do we stand today? 
