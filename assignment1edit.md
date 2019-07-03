@@ -84,3 +84,6 @@ https://newfoodeconomy.org/usda-black-farmers-discrimination-tom-vilsack-reparat
 * Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
    * How?
    * Rate effectiveness on scale of 1-5. 
+
+
+https://www.bjs.gov/content/pub/pdf/ji17.pdf
