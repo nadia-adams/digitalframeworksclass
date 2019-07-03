@@ -47,43 +47,43 @@ https://newfoodeconomy.org/usda-black-farmers-discrimination-tom-vilsack-reparat
 
 ### Objective: Clarity and accuracy
 
-* Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. 
-   * What was it?
-   * Was it in the headline?
-* Were you able to quickly understand how you would navigate the data? Again, use a 5- point scale with 5 = excellent
-   * Was that the most efficient way to navigate? 
-   * Can you suggest ways to improve navigation?
-* Using your own knowledge and critical thinking abilities, do you think the data was accurate? 1-5, with 5 most accurate
-   * List any areas where you question the accuracy of the data.
-   * List sources you would suggest the reporter check with. 
-   * Did they provide a source?
-   * Did they explain everything that needed explaining?
+* Were you able to immediately identify the central insight the reporter was trying to communicate? Answer on a 1-5 scale, with 5 being excellent and 1 being below expectations. 5
+   * What was it? It was really a report on county jails. 
+   * Was it in the headline? Yes. 
+* Were you able to quickly understand how you would navigate the data? 5 Again, use a 5- point scale with 5 = excellent
+   * Was that the most efficient way to navigate? It was a lot of sentence form structure. 
+   * Can you suggest ways to improve navigation? It seems pretty straight forward. 
+* Using your own knowledge and critical thinking abilities, do you think the data was accurate? 4 1-5, with 5 most accurate
+   * List any areas where you question the accuracy of the data. Not all jails and officials were accounted for. Some information was rounded. 
+   * List sources you would suggest the reporter check with. This is directly from the U.S. dept. of justice. 
+   * Did they provide a source? Bureau of Justice statistics. 
+   * Did they explain everything that needed explaining? Yes. 
 
 ### Objective: Quality
 
-* Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.)
-   * Explain what they did well and areas where improvements could be made. 
+* Regardless of the form that the graphic/story takes, was it executed at a high degree of quality? (Rank 1-5, with five excellent.) 5
+   * Explain what they did well and areas where improvements could be made. They provided definitions to words and information context.
 * Consider some tasks a data story must do well: (present, compare, organize, correlate)
-   * Did this graphic accomplish all tasks?
+   * Did this graphic accomplish all tasks? Yes. 
    * If not, which ones did it not accomplish
 
 ### Objective: Type and color (if piece includes graphics)
 
 * Based on your knowledge of color and type use, did this person use type (as in typography, fonts) and color to their best purpose?
    * For example, did it: 
-       * Look like it all belonged together?
-       * Draw your eye first to the most important pieces of information?
+       * Look like it all belonged together? Yes. 
+       * Draw your eye first to the most important pieces of information? No. 
        * Make sense? For example, if it discussed heat, did it use the color red to communicate the degree of heat rather than, say, blue?
-* Type (1-5)
-   * Explain
-* Color (1-5)
-   * Explain
+* Type (1-5)2
+   * Explain It wasn't eyecatching or appealing. 
+* Color (1-5)3
+   * Explain Though it had color it wasn't enough. 
    
 ### Objective: Creativity
 
-* Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you?
-   * How?
-   * Rate effectiveness on scale of 1-5. 
+* Did the piece use some creative elements to good effect? As in, to emphasize those areas that could draw someone in, or to add detail where needed, but not just random visual or story junk that distracts you? No. 
+   * How?It was a government report so it wasn't creative just laying the facts out. 
+   * Rate effectiveness on scale of 1-5. 4
 
 
 https://www.bjs.gov/content/pub/pdf/ji17.pdf
