@@ -6,4 +6,4 @@ Here are the data points I want to collect: What regions have the most black lan
 
 
 
-( https://docs.google.com/spreadsheets/d/1febKngCgVIoh2tDIMAJjSon9igPIqoD8VU3OwNXXUcQ/edit?usp=sharing )
+[Data chart](https://docs.google.com/spreadsheets/d/1febKngCgVIoh2tDIMAJjSon9igPIqoD8VU3OwNXXUcQ/edit?usp=sharing)
