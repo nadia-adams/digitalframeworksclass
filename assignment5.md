@@ -22,4 +22,4 @@ South Dakota Males Die at higher rates in Car Crashes
 CDC data found that males in South Dakota have the highest rates of fatal car crashes. Overall, males die from car crashes at a 72% higher rate than females. 
 
 Graphic:
-https://github.com/nadia-adams/digitalframeworksclass/issues/1#issue-480872489
+https://github.com/nadia-adams/digitalframeworksclass/issues/1#issuecomment-521405656
