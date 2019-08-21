@@ -1,4 +1,4 @@
-# The Other 1%: Black farmers finding hope after leaving corporate 
+# The Other 1%: Black farmers finding new work after leaving corporate 
 ### By: Nadia Adams
 
 Gale Livingstone, 46, has been farming since 2012. She worked as a consultant for 20 years in the D.C.  before going after a passion of hers. Gardening. A few years ago one of her friends bought a place in West Virginia and Gale moved to WV to practice gardening. She continued to commute for work. She said it took about three years before she became a farmer full time. Her specialty is growing air loom tomatoes but currently she is still leasing the property she is farming on.
