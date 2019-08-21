@@ -17,7 +17,9 @@ Solomon happened to stumble upon a local farm stead and thereafter he started wo
 
 His suggestion to people who are living in the city and are suffering from food deserts is to, “…move out of the city and support your local farmers.”  He says he rarely goes to the grocery store because he has access to everything that he needs from the farm to the table. 
 
-For over a century black farmers and black land owners have faced challenges to thrive in this industry. Despite these challenges they are taking significant risks to become produce suppliers and break into huge markets. Though they are a small group more black farmers are bringing awareness to how minority communities can eat healthier and participate in to contribution to healthy eating. 
+For over a century black farmers and black land owners have faced challenges to thrive in this industry. Despite these challenges they are taking significant risks to become produce suppliers and break into huge markets. Though they are only 1.3% of farmers in America; black farmers are bringing awareness to how minority communities can eat healthier and participate in to contribution to healthy eating. 
+
+[Images and Data Visualizations](https://github.com/nadia-adams/digitalframeworksclass/issues/2#issue-483556990)
 
 SOURCES: 
 
